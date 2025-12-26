@@ -28,7 +28,7 @@ DAILY_MESSAGES = [
    "Se presti attenzione mi sentirai vicina. Pensaci intensamente, potresti volere maggiore potenza neurale",
    "Buon Natale! Trovera il nastro della sorpresa in un posto con altre cose mie, dovrai attendere  ancora qualche giorno per poterlo scartare",
    "Now it's up to you. Make the magic happen. Show me a magic trick I haven't seen to unlock. You have 24 hours",
-   "Date?",
+   "You haven't fooled me",
    "Non vedo l'ora di vederti, a presto"
 ]
 
